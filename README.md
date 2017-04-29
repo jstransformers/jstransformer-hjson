@@ -1,5 +1,7 @@
 # jstransformer-hjson
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-hjson.svg)](https://greenkeeper.io/)
+
 [Hjson](http://hjson.org/) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-hjson/master.svg)](https://travis-ci.org/jstransformers/jstransformer-hjson)
