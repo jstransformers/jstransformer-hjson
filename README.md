@@ -15,7 +15,7 @@
 ## API
 
 ```js
-var hjson = require('jstransformer')(require('jstransformer-hjson'));
+var hjson = require('jstransformer')(require('jstransformer-hjson'))
 
 var text = `
   {
