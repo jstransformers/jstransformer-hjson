@@ -13,5 +13,6 @@ exports.render = function (str, options) {
   if (options.formatted) {
     return JSON.stringify(json, null, 2)
   }
+
   return JSON.stringify(json)
 }
