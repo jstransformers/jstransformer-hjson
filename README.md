@@ -5,7 +5,6 @@
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-hjson/master.svg)](https://travis-ci.org/jstransformers/jstransformer-hjson)
 [![Coverage Status](https://img.shields.io/codecov/c/github/jstransformers/jstransformer-hjson/master.svg)](https://codecov.io/gh/jstransformers/jstransformer-hjson)
 [![Dependency Status](https://img.shields.io/david/jstransformers/jstransformer-hjson/master.svg)](http://david-dm.org/jstransformers/jstransformer-hjson)
-[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-hjson.svg)](https://greenkeeper.io/)
 [![NPM version](https://img.shields.io/npm/v/jstransformer-hjson.svg)](https://www.npmjs.org/package/jstransformer-hjson)
 
 ## Installation
